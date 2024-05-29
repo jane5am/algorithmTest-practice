@@ -1,4 +1,4 @@
-package algorithmTest1;// 백준 2438번 별찍기1
+package algorithmTest_20240529.별찍기1;// 백준 2438번 별찍기1
 // 밖에 있는 반복문은 입력값만큼 반복된다
 // 안에 있는 반복문은 행의 갯수만큼 반복된다
 // 백준 2438번 별찍기1
@@ -18,7 +18,7 @@ public class baekjun2438 {
             for(int j = 1 ; j <= i; j++) {
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println();
         }
 
     }
