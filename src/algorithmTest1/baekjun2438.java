@@ -7,7 +7,7 @@ package algorithmTest1;// 백준 2438번 별찍기1
 
 import java.util.Scanner;
 
-public class backjun2438 {
+public class baekjun2438 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
