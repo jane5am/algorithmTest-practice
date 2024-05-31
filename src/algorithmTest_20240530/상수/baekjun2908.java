@@ -7,7 +7,7 @@ package algorithmTest_20240530.상수;
 
 import java.util.Scanner;
 
-public class backjun2908 {
+public class baekjun2908 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
