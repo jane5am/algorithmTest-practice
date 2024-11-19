@@ -3,7 +3,7 @@
 // 1. A의 값에 0이 들어올때까지 while문을 돌면서 숫자를 입력받는다
 // 2. 입력받은 숫자는 StringTokenizer로 잘라서 저장
 // 3. nextToken() 해서 두값 합쳐서 출력
-package algotithmTest_20240608;
+package algorithmTest_20240609;
 
 import java.io.BufferedReader;
 import java.io.IOException;

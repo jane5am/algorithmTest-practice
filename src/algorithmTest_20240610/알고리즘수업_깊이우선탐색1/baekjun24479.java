@@ -1,7 +1,7 @@
 // 백준 24479번 알고리즘 수업 - 깊이 우선 탐색 1 , 난이도 : 실버 2
 // 메모리 96336KB, 시간 1876ms
 
-package algotiyhmTest_20240610.알고리즘수업_깊이우선탐색1;
+package algorithmTest_20240610.알고리즘수업_깊이우선탐색1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

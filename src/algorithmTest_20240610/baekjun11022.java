@@ -3,12 +3,11 @@
 // 1. 테스트케이스 갯수 N 입력받기
 // 2. StringTokenizer로 공백 자른후 가져오기
 
-package algotiyhmTest_20240610;
+package algorithmTest_20240610;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class baekjun11022 {
     public static void main(String[] args) throws IOException {

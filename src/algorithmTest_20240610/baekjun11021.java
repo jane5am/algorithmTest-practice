@@ -3,7 +3,7 @@
 // 1. 테스트 케이스 갯수 N 입력받기
 // 2. 두 수 입력 받아서 stringTokenizer로 자르기
 // 3. for문 사용해서 두수 합쳐서 출력
-package algotiyhmTest_20240610;
+package algorithmTest_20240610;
 
 import java.io.BufferedReader;
 import java.io.IOException;

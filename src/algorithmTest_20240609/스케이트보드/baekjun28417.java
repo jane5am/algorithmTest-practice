@@ -3,7 +3,7 @@
 // 1. 사람 수 N 입력받기
 // 2. 점수 입력받아서 앞에 두개 비교해서 MAX1, 나머지 점수 비교해서 MAX2
 // 3. MAX1+ MAX2값 출력
-package algotithmTest_20240608.스케이트보드;
+package algorithmTest_20240609.스케이트보드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

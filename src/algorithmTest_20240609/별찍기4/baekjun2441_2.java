@@ -2,18 +2,22 @@
 // 메모리 14992KB, 시간 144ms
 // 1. 숫자 N입력받기
 // 2. for(n<5){for( ) for() }
-package algotithmTest_20240608.별찍기4;
+package algorithmTest_20240609.별찍기4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class baekjun2441 {
+public class baekjun2441_2 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
         int N = Integer.parseInt(br.readLine());
+
+        int[][] arr = new int[N][N];
+
+
 
         for(int i = 0; i < N; i++) {
             for(int j = 0; j < i; j++) {

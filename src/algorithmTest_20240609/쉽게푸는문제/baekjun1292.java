@@ -3,7 +3,7 @@
 // 1. 시작과 끝 정수를 입력받는다
 // 2. 이중for문으로 cnt하면서 시작/끝 사이에 있는 경우 더해준다
 
-package algotithmTest_20240608.쉽게푸는문제;
+package algorithmTest_20240609.쉽게푸는문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

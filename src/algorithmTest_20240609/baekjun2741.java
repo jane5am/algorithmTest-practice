@@ -2,7 +2,7 @@
 // 메모리 18252KB, 시간 184ms
 // 1. 자연수 N입력 받기
 // 2. 1~N까지 출력하기
-package algotithmTest_20240608;
+package algorithmTest_20240609;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -3,7 +3,7 @@
 // 1.N과 X입력받기
 // 2. 수열A 입력받아서 배열에 넣기
 // 3. IF (X보다 작은수일때) {출력 하기}
-package algotithmTest_20240608;
+package algorithmTest_20240609;
 
 import java.io.BufferedReader;
 import java.io.IOException;
